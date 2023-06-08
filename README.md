@@ -1,2 +1,2 @@
 # data_analysis_for_business
-MAGOLEGO 
+MAGOLEGO home assignments
